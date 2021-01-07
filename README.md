@@ -1,2 +1,2 @@
-# StanfordDataTHon2020
+# StanfordDataThon2020
 TEWH 
